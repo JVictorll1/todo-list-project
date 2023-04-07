@@ -1,16 +1,25 @@
 {
-    "tasks": [
+    "tarefas": [
         {
-            "color": "#55efc4",
-            "title": "Example Title Task 1!"
+            "cor": 1,
+            "titulo": "Example Title Task 1!"
         },
         {
-            "color": "#ffeaa7",
-            "title": "Example Title Task 2!"
+            "cor": 2,
+            "titulo": "Example Title Task 2!"
         },
         {
-            "color": "#ff7675",
-            "title": "Example Title Task 3!"
+            "cor": 3,
+            "titulo": "Example Title Task 3!"
+        },
+        {
+            "cor": 2,
+            "titulo": "Example Title Task 4!"
+        },
+        {
+            "cor": 3,
+            "titulo": "Example Title Task 5!"
         }
     ]
 }
+
