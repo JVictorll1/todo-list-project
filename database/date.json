@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            "color": "#55efc4",
+            "title": "Example Title Task 1!"
+        },
+        {
+            "color": "#ffeaa7",
+            "title": "Example Title Task 2!"
+        },
+        {
+            "color": "#ff7675",
+            "title": "Example Title Task 3!"
+        }
+    ]
+}
