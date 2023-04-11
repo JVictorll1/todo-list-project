@@ -1,5 +1,4 @@
-{
-    "tarefas": [
+[
         {
             "cor": 1,
             "titulo": "Example Title Task 1!"
@@ -20,6 +19,4 @@
             "cor": 3,
             "titulo": "Example Title Task 5!"
         }
-    ]
-}
-
+]
